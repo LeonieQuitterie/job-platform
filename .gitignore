@@ -1,0 +1,15 @@
+# === BACKEND ===
+/backend/node_modules/
+/backend/uploads/
+/backend/.env
+/backend/package-lock.json
+
+# === FRONTEND ===
+/frontend/node_modules/
+/frontend/.next/
+/frontend/package-lock.json
+
+# === EDITOR & SYSTEM ===
+.vscode/
+.DS_Store
+Thumbs.db
